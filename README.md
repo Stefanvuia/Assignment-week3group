@@ -15,8 +15,8 @@ The problem domain for our project is  [?]. We are considering a [?] application
 ## API 
 
 We are planning to use the Nominatim API for geocoding and location information, such as longitude,
-latitude, full address, and location type. This API uses OpenStreetMap data, the documentation can 
-be found at <https://nominatim.org/release-docs/develop/api/Overview/#nominatim-api>. Example outputs 
+latitude, full address, and location type. This API uses OpenStreetMap data, the API documentation can 
+be found at [here](https://nominatim.org/release-docs/develop/api/Overview/#nominatim-api "Nominatim Manual"). Example outputs 
 from Java and Hoppscotch.io can be found below, see `src/Main.java` for the full java code.
 
 ![example api call](img/api_web_ex.png "web example")
