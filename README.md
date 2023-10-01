@@ -1,6 +1,6 @@
 # Week 3 Group Assignment
 
-Kevin Li, Stefan Vuia, ... 
+Kevin Li, Stefan Vuia, Zixuan Lu... 
 
 ## Problem Domain and Project Overview
 
