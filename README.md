@@ -1,16 +1,16 @@
 # Week 3 Group Assignment
 
-Kevin Li, Stefan Vuia, Zixuan Lu, Kathy Xu... 
+Kevin Li, Stefan Vuia, Zixuan Lu, Kathy Xu, and Kimlan Huynh
 
 ## Problem Domain and Project Overview
 
-The problem domain for our project is  [?]. We are considering a [?] application with some of the following features:
+The problem domain for our project is Travel. We are considering a travel planning application with some of the following features:
 
-- Profile creation and accessing saved [?] on profile
-- Searching up [? locations] and displaying the results
-- Fetching location data and placing markers on a map
-- Saving and retrieving locations [?]
-- Routing between saved locations [?]
+- Account creation, login to account, access saved info on account
+- Creating, saving, and accessing trip objects for a destination
+- Searching up points of interest and allowing users to choose and add them to trip
+- Fetching location data for each point in the trip and placing markers on a map
+- Generating an itinerary for the trip object
 
 ## API 
 
